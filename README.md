@@ -1,7 +1,7 @@
 # CI-CD-for-Node.js-Retail-App
 
 ### **Group No:** D06 - Group 10  
-### **Project No:** DO-39
+### **Project No:** DO-21
 
 ---
 
